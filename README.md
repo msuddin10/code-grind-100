@@ -5,7 +5,7 @@ Documenting my 100-day journey of coding 3+ hours daily — focusing on problem-
 ### End Date (Target): January 8, 2026
 
 # 🎯Objectives
-Practice/Learn coding for 3+ hours every day
+Practice/Learn coding for avg 3+ hours every day
 Strengthen problem-solving and gaining deeper knowledge
 Work on personal and academic projects
 Develop strong coding habits and consistency
