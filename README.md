@@ -12,9 +12,10 @@ Develop strong coding habits and consistency
 Track and reflect on progress
 
 # 📅 Daily Log  
-| Day | Date       | Hours | Focus Area      | Notes | Distractions Tried |
-|-----|-----------|-------|-----------------|-------|-------------------|
-| 1   | Oct 1, 2025 |   |          |  |  |
+| Day | Date       | Hours | Focus Area      | Notes | Distractions Tried | Avg
+|-----|-----------|-------|-----------------|-------|-------------------|---|
+|  1  | Oct 1, 2025 |2   |Basic Inheratance &<br>Protected Access <br>Modifier| | Looking into<br>other people's<br>portfolios | 2 |
+|  2  | Oct 2, 2025 |1   |   | |Going out<br>w friends| 1.5 |
 
 
 # ✅ Progress Tracker  
