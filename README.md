@@ -15,7 +15,8 @@ Track and reflect on progress
 | Day | Date       | Hours | Focus Area      | Notes | Distractions Tried | Avg
 |-----|-----------|-------|-----------------|-------|-------------------|---|
 |  1  | Oct 1, 2025 |2   |Basic Inheratance &<br>Protected Access <br>Modifier| | Looking into<br>other people's<br>portfolios | 2 |
-|  2  | Oct 2, 2025 |1   |Multiple inheritance<br>& multi level<br>inheritance   | |Going out<br>w friends| 1.5 |
+|  2  | Oct 2, 2025 |1 + 4|Multiple inheritance<br>& multi level<br>inheritance<br>problem solving   | |Going out<br>w friends| 3.5 |
+|  3  | Oct 3,2025  |1 |Ambiguity, Virtual Base<br>class| | |2.67|
 
 
 # ✅ Progress Tracker  
